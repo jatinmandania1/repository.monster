@@ -1,6 +1,6 @@
-# Addon Name: Monster Epic
+# Addon Name: Monster
 # Addon id: plugin.video.monster
-# Addon Provider: Team Jen
+# Addon Provider: Jatin
 msgid ""
 msgstr ""
 "Project-Id-Version: Jen\n"
@@ -684,7 +684,7 @@ msgid "Please Wait"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Processing Link"
+msgid "Please wait"
 msgstr ""
 
 msgctxt "#30034"
@@ -780,7 +780,7 @@ msgid "Queue Item"
 msgstr ""
 
 msgctxt "#30057"
-msgid "processing metadata"
+msgid "We're working on it! Hang tight amigo.."
 msgstr ""
 
 msgctxt "#30058"
